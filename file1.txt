@@ -2,3 +2,4 @@ class hello iam saleem so and so
  i have removed all the files except file.txt
  dhfmfnusdhgdsnfciyhsdfndfhsdfnsdyhfdsknfvdwi
 }
+now iam checking the concept of fech whether we can see the details what as updated in our server in git log of local server and decide whether we can pull it or not
