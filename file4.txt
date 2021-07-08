@@ -1,3 +1,1 @@
-hi hello now from eclipse
-new modification now
-check direct with out terminal
+every thing is cleaned now and checking again whether it is staging or not and commiting and pushing also
